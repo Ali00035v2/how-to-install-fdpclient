@@ -10,4 +10,14 @@
 9. Do the eighth step
 10. Do the ninth step
 11. Do the tenth step
-12. Done
+12. Do the eleventh step
+13. Do the twelfth step
+14. Do the thirteenth step
+15. Do the fourteenth step
+16. Do the fifteenth step
+17. Do the sixteenth step
+18. Do the seventeenth step
+19. Do the eighteenth step
+20. Do the nineteenth step
+21. Do the twentieth step
+23. Done
