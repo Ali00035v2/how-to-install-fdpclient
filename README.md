@@ -1,4 +1,13 @@
 # How to install FDPClient
 1. Do nothing
-2. Repeat the first step
-3. Done
+2. Do the first step
+3. Do the second step
+4. Do the third step
+5. Do the fourth step
+6. Do the fifth step
+7. Do the sixth step
+8. Do the seventh step
+9. Do the eighth step
+10. Do the ninth step
+11. Do the tenth step
+12. Done
