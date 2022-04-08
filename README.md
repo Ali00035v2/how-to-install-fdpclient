@@ -1,5 +1,5 @@
 # How to install FDPClient
-Hello, the guy who is a threat to the society here, today I am gonna teach you how to install the best totally not skidded client aka FDPClient.
+Hello, local helper here, today I am gonna teach you how to install the best totally not skidded client aka FDPClient.
 1. Do nothing
 2. Do the first step
 3. Do the second step
